@@ -29,11 +29,11 @@ readonly VERSION='1.6.0'
 # ------------------------------------------------------------
 # Defaults
 # ------------------------------------------------------------
-URL=""
-REMOTE_PROTOCOL=""
+URL="tiempoli-cp5025.wordpresstemporal.com"
+REMOTE_PROTOCOL="21"
 REMOTE_HOST=""
-REMOTE_USER=""
-REMOTE_PASSWD=""
+REMOTE_USER="desarrollo@leue.tiempolibre.ec"
+REMOTE_PASSWD="Okoksys2020"
 REMOTE_BASE_URL=""
 REMOTE_BASE_URL_DISPLAY=""
 REMOTE_ROOT=""
